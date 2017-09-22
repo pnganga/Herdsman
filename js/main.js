@@ -84,12 +84,7 @@ function main() {
         paginationSpeed : 400,
         singleItem:true
         });
-          $("#service-1").mouseenter(function () {
-              $(this).attr("src", "img/services/beef.png")
-          });
-          $("#service-1").mouseleave(function () {
-              $(this).attr("src", "img/services/hang-beef.jpg")
-          });
+         
 
   	});	
 

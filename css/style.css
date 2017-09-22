@@ -538,3 +538,17 @@ color: #777;
 #footer a:hover {
 	color: #ccc;
 }
+.navbar-brand>img {
+  height: 100px;
+  width: auto;
+   /*display: inline-block;*/
+   vertical-align: text-top;
+   }
+.navbar-brand 
+{
+   margin: 0;
+    padding: 0;
+}
+#menu{
+	min-height: 120px;
+}
